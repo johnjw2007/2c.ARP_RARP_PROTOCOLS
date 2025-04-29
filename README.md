@@ -67,8 +67,10 @@ CLIENT:
           c.close()
 ## OUPUT - ARP
 1. Server:
+   
 ![image](https://github.com/user-attachments/assets/ec45ec56-1119-4323-aeb6-3635768e4215)
-2. Client:
+3. Client:
+
 ![image](https://github.com/user-attachments/assets/2dea0e1f-5add-4e5f-a74c-1eaf9f78acb3)
 
 ## PROGRAM - RARP
@@ -122,8 +124,10 @@ CLIENT:
 
 ## OUPUT -RARP
 1. Client:
+   
 ![image](https://github.com/user-attachments/assets/a26bea83-7bac-4071-a12b-d6f2696d09db)
-2. Server:
+3. Server:
+
 ![image](https://github.com/user-attachments/assets/4c57065f-e8fd-4c7e-bc27-a46682ddeb39)
 
 ## RESULT
